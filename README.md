@@ -1,6 +1,6 @@
 <div align="center">
 
-# Teleopro
+# TeleoPro
 
 **Teleoperation Like a Pro: any input device, any robot arm.**
 
