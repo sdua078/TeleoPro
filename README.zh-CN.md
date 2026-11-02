@@ -1,6 +1,6 @@
 <div align="center">
 
-# Teleopro
+# TeleoPro
 
 **遥操大师：用任意输入设备操控任意机械臂。**
 
