@@ -8,7 +8,7 @@ ROS 2 node for [teleopro](../README.md). Tested on ROS 2 Jazzy with a UR5e.
 
 ```bash
 cd ~/ros2_ws/src
-git clone https://github.com/sdua078/teleopro.git
+git clone https://github.com/sdua078/TeleoPro.git
 cd ~/ros2_ws
 rosdep install --from-paths src --ignore-src -y
 colcon build --packages-select teleopro_core teleopro_ros
